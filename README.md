@@ -2,3 +2,5 @@
 [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=TheAwesomeCoder05_MusicComp-v2&metric=alert_status)](https://sonarcloud.io/dashboard?id=TheAwesomeCoder05_MusicComp-v2)
 
 Discord music bot made, complete with dashboard.
+
+This repository is licensed under MIT (c) 2022 DevComp
