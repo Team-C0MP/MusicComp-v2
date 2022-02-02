@@ -9,8 +9,8 @@ jobs:
       - image: cimg/node:17.2.0
     steps:
       - checkout
-      - node/install-packages:
-          pkg-manager: yarn
+#      - node/install-packages:
+#          pkg-manager: yarn
       - run:
           command: yarn test
           name: Run tests
