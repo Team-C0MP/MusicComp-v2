@@ -3,4 +3,7 @@
 
 Discord music bot made, complete with dashboard.
 
+This repository is mainly for archival and testing purposes and will not be updated actively. Find the main repo for this project [here](https://github.com/TheAwesomeCoder05/MusicComp-v2).
+
+
 This repository is licensed under MIT (c) 2022 DevComp
