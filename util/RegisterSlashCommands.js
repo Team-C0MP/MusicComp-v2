@@ -1,4 +1,4 @@
-# This script should automate the registration, hopefully. it took wayyy too long lol
+/** This script should automate the registration, hopefully. it took wayyy too long lol  */
 
 const fs = require("fs");
 const path = require("path");
