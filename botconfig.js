@@ -2,14 +2,14 @@ module.exports = {
   Admins: ["UserID", "UserID"], 
   ExpressServer: true, 
   DefaultPrefix: process.env.Prefix || ">", 
-  Port: 3000, //Which port website gonna be hosted
+  Port: 3000, 
   SupportServer: "https://dsc.gg/team-comp", 
   Token: process.env.TOKEN || "", //Discord Bot Token
   ClientID: process.env.Discord_ClientID || "", 
   ClientSecret: process.env.Discord_ClientSecret || "", 
   Scopes: ["identify", "guilds", "applications.commands"],
-  ServerDeafen: true, //If you want bot to stay deafened
-  DefaultVolume: 100, //Sets the default volume of the bot, You can change this number anywhere from 1 to 100
+  ServerDeafen: true, 
+  DefaultVolume: 100, 
   CallbackURL: "/api/callback", 
   "24/7": true, 
   CookieSecret: process.env.SECRET, 
