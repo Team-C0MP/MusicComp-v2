@@ -3,5 +3,4 @@
 
 Discord music bot made, complete with dashboard.
 
-
 This repository is licensed under MIT (c) 2022 DevComp
