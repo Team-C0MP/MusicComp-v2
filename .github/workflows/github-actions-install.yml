@@ -1,0 +1,13 @@
+- name: Setup Yarn
+  # You may pin to the exact commit or the version.
+  # uses: mskelton/setup-yarn@b0673acb4e37f20265fbddbf7567110ebb313605
+  uses: mskelton/setup-yarn@v1.2.1
+  with:
+    # Additional flags to pass to the install command.
+    flags: # optional
+    # Node version to use, defaults to the current LTS version.
+    node-version: # optional, default is 16.x
+    # Git ref to checkout. Passed to `actions/checkout`.
+    ref: # optional
+    # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm
+    cache: # optional, default is yarn
