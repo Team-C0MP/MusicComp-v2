@@ -1,3 +1,5 @@
+/** Console logger script to log errors **/
+
 const winston = require("winston");
 const colors = require("colors");
 

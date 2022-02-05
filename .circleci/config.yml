@@ -9,14 +9,14 @@ jobs:
       - image: cimg/node:17.2.0
     steps:
       - checkout
-      - node/install-packages:
-          pkg-manager: yarn
-      - run:
-          command: yarn test
-          name: Run tests
-      - run:
-          command: yarn build
-          name: Build app
+#      - node/install-packages:
+#          pkg-manager: yarn
+#      - run:
+#          command: yarn test
+#          name: Run tests
+#      - run:
+#          command: yarn build
+#          name: Build app
       - persist_to_workspace:
           root: ~/project
           paths:
