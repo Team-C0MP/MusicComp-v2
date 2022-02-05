@@ -14,8 +14,6 @@
   </p>
  </div>
  
- https://img.shields.io/badge/verified%20users-3.2M%2B-brightgreen.svg
- 
  
  ## About
  MusicComp is a discord music bot made by DevComp. It has full Spotify, YouTube and Soundcloud API support. It also has a [Web Dashboard](https://musiccomp.devcomp.tk/dashboard).
